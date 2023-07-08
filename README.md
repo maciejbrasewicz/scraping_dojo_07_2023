@@ -38,7 +38,7 @@ OUTPUT_FILE=output.json
 3. Run the Python script:
 
 ```sh
-python main.py
+python run.py
 ```
 
 ## Contributing to Quotes Scraper
